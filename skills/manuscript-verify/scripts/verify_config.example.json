@@ -1,0 +1,22 @@
+{
+  "_comment": "경로는 이 파일 위치 기준. 논문 폴더(build/ 등)에 verify_config.json 으로 복사해 채운다.",
+  "ledger": "../CLAIMS_LEDGER.csv",
+  "artifacts_dir": "../../harness/out",
+  "harvest_root_key": "estimates",
+  "extra_artifact_files": [],
+  "retired_artifacts": {"I15": "hazard triple interaction → 표 7 사양 (4) 로 대체"},
+  "manual_stale": {"1.2512": "hazard, 구설계 → 1.2881"},
+  "extra_constants": [[752, "sample flow"], [379, "matched events"], [2000, "placebo draws"]],
+  "manuscripts": ["../manuscript/DRAFT.md", "../manuscript/DRAFT_IRFA.md"],
+  "appendix": "../manuscript/ONLINE_APPENDIX.md",
+  "main_manuscript": "../manuscript/DRAFT.md",
+  "tables_md": "../exhibits/tables.md",
+  "appendix_tables_md": "../exhibits/appendix_tables.md",
+  "exhibits_dir": "../exhibits",
+  "caption_source": "make_submission.py",
+  "caption_var": "FIGCAP",
+  "figs_var": "FIGS",
+  "exhibits_source": "make_exhibits.py",
+  "anchors_file": "anchors.json",
+  "references_marker": "## References"
+}
