@@ -1,6 +1,6 @@
 {
   "name": "academics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Empirical-finance (SSCI) paper workflow distilled from two submitted papers: research OS bootstrap, idea battery → elimination harness, power-rescue design levers, manuscript↔artifact verifiers, reviewer-comment disposition, narrative audit, journal targeting & submission packaging, replication repository, Korean entity linkage.",
   "author": {
     "name": "Real-K"
